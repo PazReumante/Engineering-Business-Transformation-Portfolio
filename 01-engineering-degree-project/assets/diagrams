@@ -1,0 +1,45 @@
+# Engineering Diagrams
+
+## Purpose
+
+This directory contains engineering diagrams developed to explain technical concepts, geological interpretation, engineering solutions and system architecture used throughout the project.
+
+## Content
+
+| File | Description |
+|------|-------------|
+| geological-map.png | Geological mapping of the study area |
+| geological-cross-section.png | Cross-sectional interpretation |
+| mine-layout.png | Underground mine layout |
+| engineering-design.png | Proposed engineering design |
+| structural-analysis.png | Structural interpretation |
+| data-flow-diagram.png | Engineering data flow |
+
+## Accepted Formats
+
+- PNG
+- SVG (preferred)
+- PDF (vector)
+- Draw.io (.drawio)
+
+## Naming Convention
+
+```
+<topic>-<description>.<extension>
+```
+
+Examples
+
+```
+geological-cross-section.png
+mine-layout.svg
+engineering-design.drawio
+structural-analysis.pdf
+```
+
+## Guidelines
+
+- Keep diagrams clean and readable.
+- Use vector graphics whenever possible.
+- Include legends, scales and labels.
+- Ensure consistency across the repository.
