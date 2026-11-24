@@ -120,7 +120,7 @@ Engineering Business Transformation Portfolio
 
 | Project | Industry | Primary Focus | Status |
 |----------|----------|---------------|--------|
-| Engineering Degree Project | Mining | Operational Optimisation | In Progress |
+| [Engineering Degree Project](01-engineering-degree-project/README.md) | Mining | Technical and Economic Feasibility | Academic feasibility study (2018) |
 | SCADA Operational Data Processing Toolkit | Water Treatment | Data Automation | Planned |
 | Real Estate Operations Optimisation | Real Estate | Business Operations | Planned |
 | Business Process Automation | Multiple Industries | Process Improvement | Planned |

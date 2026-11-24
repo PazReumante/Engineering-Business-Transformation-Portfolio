@@ -1,31 +1,5 @@
-# Metadatos del Proyecto
+# Datos del proyecto
 
-## Descripción
+El estudio utilizó información técnica y observaciones de terreno. Los datos originales quedan fuera de la versión pública por razones de confidencialidad.
 
-Esta carpeta contiene los datos utilizados para documentar la metodología aplicada durante el proyecto.
-
-Por motivos de confidencialidad, los datos originales no se incluyen en este repositorio.
-
----
-
-## Contenido
-
-| Carpeta | Descripción |
-|----------|-------------|
-| `sample-data/` | Datos de ejemplo anonimizados utilizados para ilustrar la metodología. |
-| `templates/` | Plantillas desarrolladas para documentar, analizar o presentar información técnica. |
-
----
-
-## Origen de los Datos
-
-- Información técnica del proyecto.
-- Observaciones de terreno.
-- Documentación de ingeniería.
-- Datos tratados y adaptados para uso público.
-
----
-
-## Política de Datos
-
-Todos los archivos publicados han sido revisados y anonimizados para proteger la información confidencial de la organización.
+El material disponible permite revisar la descripción del método. Para reproducir un cálculo se necesitaría una muestra autorizada o sintética con sus variables, unidades y criterios de cálculo.
