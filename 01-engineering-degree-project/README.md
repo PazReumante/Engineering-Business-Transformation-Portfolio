@@ -21,3 +21,9 @@ El estudio obtuvo indicadores económicos favorables bajo los supuestos del esce
 ## Cómo revisar el caso
 
 Empieza por el [resumen ejecutivo](deliverables/executive-summary.md) y revisa la [nota técnica](docs/technical-analysis.md) para seguir la decisión. La [nota sobre datos](data/metadata.md) describe el alcance de la versión pública.
+
+## Evidencia y aprendizajes
+
+El [levantamiento geológico documentado](docs/field-evidence.md) explica qué observaciones respaldaron el enfoque subterráneo y dónde terminaba la evidencia. El [ejemplo reproducible de flujo de caja](data/cash-flow-example.md) muestra cuánto puede cambiar la conclusión si cae el flujo esperado. Usa datos ficticios.
+
+La principal lección fue tratar la continuidad de la veta y el rendimiento económico como supuestos que requieren comprobaciones distintas. El mapeo permite acotar el diseño conceptual. Una proyección de caja permite evaluar el escenario antes de comprometer inversión.

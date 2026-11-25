@@ -13,3 +13,11 @@ El estudio informó un VAN positivo y una TIR superior a su tasa de descuento. E
 Consulta la [descripción del flujo](workflow.md) y la [nota sobre los datos](../data/metadata.md).
 
 El expediente de trabajo incluye un levantamiento topográfico y una cotización. Esta síntesis omite el plano, sus coordenadas y los importes del presupuesto. La [referencia normativa histórica](../references/regulations.md) contextualiza la parte de cierre.
+
+## De la observación a la decisión
+
+El [levantamiento geológico](field-evidence.md) describe vetas mayormente subverticales, control estructural de la mineralización y variación de la calidad de la roca entre tramos observados. La geometría apoyó estudiar una extracción selectiva siguiendo la veta. La variabilidad hizo necesario conservar la incertidumbre geotécnica al interpretar la propuesta. El levantamiento planteó una posible mineralización en manto como hipótesis de exploración. El estudio de título no presenta una comparación económica equivalente para esa hipótesis.
+
+## Qué cambia la conclusión económica
+
+La disponibilidad de equipos condiciona la inversión inicial. Los ingresos dependen del material comercializable y del precio, mientras los costos fijos reducen la capacidad de absorber una caída del volumen o del margen. El [ejemplo sintético](../data/cash-flow-example.md) permite repetir la lógica de descuento y observar un cambio de signo en el VAN.
